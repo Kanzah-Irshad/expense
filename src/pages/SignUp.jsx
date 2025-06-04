@@ -212,7 +212,7 @@ export default function SignUp() {
                 </Link>
               </p>
               <p className="text-light small mt-3">
-                &copy; {new Date().getFullYear()} Ayesha Usman's Expense Tracker
+                &copy; {new Date().getFullYear()} kanza's Expense Tracker
               </p>
             </div>
           </div>
