@@ -113,7 +113,7 @@ const handleGoogleLogin = async () => {
     />
     <div className="overlay-content">
       <FaMoneyBillWave size={60} className="mb-4 glowing-icon" />
-      <h2 className="fw-bold mb-2">Welcome to Ayesha's Expense Tracker</h2>
+      <h2 className="fw-bold mb-2">Welcome to kanzah's Expense Tracker</h2>
       <p className="tagline mb-4">Budget Better. Live Smarter.</p>
       <p className="text-center intro-text mb-4">
         Take control of your finances with our powerful tracking tools.
