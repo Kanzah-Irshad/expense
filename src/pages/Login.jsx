@@ -287,7 +287,7 @@ const handleGoogleLogin = async () => {
                 <p className="text-light small mt-3">
                   {" "}
                   {/* Changed from text-muted to text-light */}
-                  &copy; {new Date().getFullYear()} Ayesha Usman's Expense
+                  &copy; {new Date().getFullYear()} kanza's Expense
                   Tracker. All rights reserved.
                 </p>
               </div>
